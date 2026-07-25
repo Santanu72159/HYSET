@@ -1,0 +1,11 @@
+torch>=2.6.0
+transformers>=4.51.0
+numpy>=1.24
+safetensors>=0.4.3
+sentencepiece>=0.1.99
+
+# LLM judge used for Pass Rate evaluation (any OpenAI-compatible endpoint)
+openai>=1.30.0
+
+# Local agent server (src/agent_server.py)
+flask>=3.0
